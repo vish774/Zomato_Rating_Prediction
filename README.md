@@ -37,3 +37,6 @@ Deployment using Flask framework ==> other servers like(heroku,aws,azure,google 
 ⮚	Saved the model into a pickle file which is also known as Serialization.
 
 ⮚	Finally done deployment using flask framework.
+
+![image](https://user-images.githubusercontent.com/85214522/123391574-cb375800-d5b9-11eb-846e-2c8bc6a8a4e3.png)
+
